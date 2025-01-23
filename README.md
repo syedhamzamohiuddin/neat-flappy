@@ -6,7 +6,7 @@
 https://youtu.be/CpUTfamrzqM
 
 Steps using eclipse IDE:
-Download the repo as zip file and extract it. [![s1](https://github.com/user-attachments/assets/3730ba7d-f9c9-4008-9a94-bc03a2d3cc58)]
+Download the repo as zip file and extract it.  [![s1](https://github.com/user-attachments/assets/3730ba7d-f9c9-4008-9a94-bc03a2d3cc58)]
 2. Launch eclipse IDE.
 3. Navigate to File > Import. A sequence of prompt windows will popup. Traverse as follows:
 4. select 'Projects from Folder or Archive': [![flappyimport1](https://github.com/user-attachments/assets/90ee0bec-0fa2-4ff0-8a93-52acea6a5081)
