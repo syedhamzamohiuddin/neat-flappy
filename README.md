@@ -8,12 +8,13 @@ https://youtu.be/CpUTfamrzqM
 Steps using eclipse IDE:
 1. Download the repo as zip file and extract it. ![s1](https://github.com/user-attachments/assets/3730ba7d-f9c9-4008-9a94-bc03a2d3cc58)
 2. Launch eclipse IDE.
-3. Create new a 'Java Project' as follows (be sure to uncheck 'Create module-info.java file'), and press next. ![image](https://github.com/user-attachments/assets/83a7ea40-1be4-4e14-b00f-e1bbb67d7193)
-4. import the project as follows
-5.   
-   ![image](https://github.com/user-attachments/assets/ab2bce27-7cda-4e74-adb5-fcd982bf4b0c)
+3. Navigate to File > Import. A sequence of prompt windows will popup. Traverse as follows:
+4. select 'Projects from Folder or Archive' ![flappyimport1](https://github.com/user-attachments/assets/90ee0bec-0fa2-4ff0-8a93-52acea6a5081)
+5. select 'Archive...' as:![flappyimport1 5](https://github.com/user-attachments/assets/266bdcb0-ff1d-4d80-be66-7df7a576d699)
+6. Select the downloaded project zip file and click open: ![flappyimport2](https://github.com/user-attachments/assets/67e3d73b-a414-4869-beb8-b266afda15a3)
+7. The project should now be available inside project explorer.
+8. Now navigate to NeatFlappy>src>p1>Main.java :![Screenshot 2025-01-23 115246](https://github.com/user-attachments/assets/072ef1aa-049c-4164-8acb-c3ab921f9d51)
+9. Now run the Main.java: ![flappyimport4](https://github.com/user-attachments/assets/1e580efb-7e4d-470e-96e7-b1a4bf779355)
+10. You should get the following window now: ![flappygamefinal](https://github.com/user-attachments/assets/ff62e70b-2e27-4555-abb9-c2badba0069a)
 
-   
 
-
-6. Navigate to the pl/Main.java and run the main file.
