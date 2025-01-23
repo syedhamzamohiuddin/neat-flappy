@@ -5,6 +5,15 @@
 
 https://youtu.be/CpUTfamrzqM
 
-Steps:
-1. Import the project into the eclipse IDE
-2. Navigate to the pl/Main.java and run the main file.
+Steps using eclipse IDE:
+1. Download the repo as zip file and extract it. ![s1](https://github.com/user-attachments/assets/3730ba7d-f9c9-4008-9a94-bc03a2d3cc58)
+2. Launch eclipse IDE.
+3. Create new a 'Java Project' as follows (be sure to uncheck 'Create module-info.java file'), and press next. ![image](https://github.com/user-attachments/assets/83a7ea40-1be4-4e14-b00f-e1bbb67d7193)
+4. import the project as follows
+5.   
+   ![image](https://github.com/user-attachments/assets/ab2bce27-7cda-4e74-adb5-fcd982bf4b0c)
+
+   
+
+
+6. Navigate to the pl/Main.java and run the main file.
